@@ -16,7 +16,7 @@
 ![image](https://raw.githubusercontent.com/winston779/BingChat/main/1.jpg)
 
 经过科学上网后展示的是这样的页面。
-11111
+111111
 ![image](https://raw.githubusercontent.com/winston779/BingChat/main/2.jpg)
 
 **下面是推荐使用的机场：**
