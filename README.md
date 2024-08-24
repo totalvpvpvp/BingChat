@@ -25,7 +25,7 @@
 
 打算深度使用请购买体验更好的机场：[2023年最新机场推荐](https://github.com/winston779/clash/blob/main/%E6%9C%80%E6%96%B0clash%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.md)
 
-## 邮箱
+## 邮箱1
 
 Gmail邮箱也需要科学上网后申请，注册地址：[mail.google.com](https://mail.google.com/)
 
